@@ -1,0 +1,77 @@
+.heading{
+  text-align: center;
+  color: rgb(0, 243, 0);
+  font-style: italic;
+  font-size: 46px;
+  margin-top: 50px;
+}
+.heading:hover{
+  color: darkred ;
+  cursor: pointer;
+}
+.place{
+  margin-top: 50px;
+  text-align: center;
+}
+.input_field{
+  width: 40%;
+  border-radius: 15px;
+  color: darkgreen;
+  background-color: lightgray;
+  padding-right: 42px;
+  padding-left: 10px;  
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.input_field:focus{
+  outline: none;
+}
+.search_btn{
+  background: lightgray;
+  color: rgb(45, 248, 45);
+  font-size: 20px;
+  cursor: pointer;
+  margin-left: -40px;
+  border: none;
+}
+.search_btn:focus{
+  outline: none;
+  color: green;
+}
+.design{
+  font-weight: bolder;
+  font-size: 35px;
+  margin-left: -50%;
+  color: rebeccapurple;
+  margin-top: 50px;
+}
+.design:hover{
+  color: red;
+  cursor: pointer;
+}
+.resize{
+  margin-top: 100px;
+  margin-left: 12px;
+  border-radius: 20px;
+  border: black solid 2px;
+}
+.temp_design{
+  font-weight: bolder;
+  margin-left: 250px;
+  font-size: 35px;
+  color: orangered;
+  margin-top: 50px;
+}
+.temp_design:hover{
+  color: yellow;
+  cursor: pointer;
+}
+.text{
+  font-weight: bolder;
+  margin-left: 100px;
+  margin-top: -100px !important;
+  font-size: 35px;
+  color: orangered;
+  margin-top: 50px;
+}
